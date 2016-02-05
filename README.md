@@ -12,6 +12,10 @@
 
 更多功能敬请期待……
 
+QQ: 11939440
+Email: zyh.95@163.com
+facebook: http://fb.com/52zyh
+web: http://www.topsts.cn http://www.wolaimang.com
 
 # 以下是ThinkPHP说明
 
