@@ -1,4 +1,4 @@
-﻿### ControlPanelTemplate
+﻿# ControlPanelTemplate
 
 ##控制面板模板
 
@@ -13,7 +13,7 @@
 更多功能敬请期待……
 
 
-### 以下是ThinkPHP说明
+# 以下是ThinkPHP说明
 
 ## 简介
 
@@ -55,7 +55,7 @@ ThinkPHP遵循Apache2开源协议发布。Apache Licence是著名的非盈利开
 
 
 
-### 以下是Bootstrap说明
+# 以下是Bootstrap说明
 
- Copyright 2011-2015 Twitter, Inc.
- Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+### Copyright 2011-2015 Twitter, Inc.
+### Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
